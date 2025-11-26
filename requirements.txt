@@ -1,0 +1,4 @@
+it is ecommers application
+Module 1: login
+Module 2: Search product
+Module 3: add to cart
